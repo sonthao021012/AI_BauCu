@@ -1,0 +1,6 @@
+{
+  "name": "Trợ lý Bầu cử Hội An Đông AI",
+  "description": "Trợ lý ảo AI hỗ trợ tra cứu thông tin, quy định bầu cử, trắc nghiệm kiến thức và quản trị dữ liệu cho cử tri phường Hội An Đông.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
